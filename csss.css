@@ -1,0 +1,72 @@
+* {
+    
+    margin: 0%;
+    padding: 0%;
+  }
+  header {
+    background-color: #DEAC80;
+    text-align: justify;
+    align-content: flex-start;
+    width: 100%;
+    height: 55px;
+    margin: 0%;
+    padding: 0%;
+  }
+  footer {
+    background-color: black;
+    align-content: flex-start;
+    width: 100%;
+    height: 65px;
+    margin: 0%;
+    padding: 0%;
+    position: absolute;
+    bottom: 0;
+  }
+  .separate {
+    display: flex;
+    float: right;
+    padding-right: 10%;
+  }
+  .logo {
+    float: left;
+  }
+  .gmail {
+    float: left;
+  }
+  .social {
+    float: right;
+  }
+  .notes{
+    margin-top: 15px;
+  }
+  .login{
+    margin-top: 15px;
+  }
+  
+  .About {
+    padding-top: 25px;
+    color: white;
+    padding-bottom: 15px;
+    padding-right: 35px;
+  }
+  header h1 {
+    opacity: 100%;
+    color: rgb(0, 0, 0);
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    font-weight: 100%;
+    font-variant: small-caps;
+    font-size: x-large;
+    font-style: normal;
+  }
+  body {
+    background-color: #DEAC80;
+  }
+  a {
+    padding-top: 5px;
+    margin-left: 35px;
+    font-family: cursive;
+    font-size: xx-large;
+    font-style: oblique;
+  }
